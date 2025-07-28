@@ -2,6 +2,8 @@
 
 ![실행화면](https://github.com/user-attachments/assets/635b0953-7b1f-496c-a854-a759939655cd)
 
+![실행화면2](https://github.com/user-attachments/assets/735d15a7-18a6-4cc3-b0b1-b504f03c7d52)
+
 ## 프로젝트 소개
 ---
 - Python의 socket 라이브러리와 Tkinter GUI를 활용한 실시간 채팅 프로그램을 개발하여 네트워크 프로그래밍 및 멀티스레딩 처리 능력 강화
